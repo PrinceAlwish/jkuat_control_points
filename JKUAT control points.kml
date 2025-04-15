@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>JUJA.kml</name>
+	<open>1</open>
+	<Schema name="JUJA" id="JUJA">
+		<SimpleField type="float" name="E">
+		</SimpleField>
+		<SimpleField type="float" name="N">
+		</SimpleField>
+	</Schema>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0F4A9A293B35E1A6A10B">
+		<name>JUJA</name>
+		<open>1</open>
+		<Placemark id="04D2DA15C535E1A6A11E">
+			<description>h92</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278920.374518758</SimpleData>
+					<SimpleData name="N">9880172.92255896</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0141182765724,-1.08618988881514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AEE1EF01E35E1A6A11F">
+			<description>T2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278975.576083076</SimpleData>
+					<SimpleData name="N">9880101.38960023</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0146137271331,-1.08683700473429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="16D809A5A335E1A6A11F">
+			<description>T2A</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279120.533630367</SimpleData>
+					<SimpleData name="N">9879938.05537197</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0159149095503,-1.08831470526864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="21BC3B9EBE35E1A6A11F">
+			<description>T3</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278993.681018628</SimpleData>
+					<SimpleData name="N">9879817.7619269</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0147746895703,-1.08940162485536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F8FBF570635E1A6A120">
+			<description>T3A</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278811.897183205</SimpleData>
+					<SimpleData name="N">9879673.47811614</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0131408830279,-1.09070513195168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1E2E0EF12635E1A6A120">
+			<description>T3B</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278616.285771721</SimpleData>
+					<SimpleData name="N">9879492.73079103</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0113826472269,-1.09233824916387,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="25DA29263C35E1A6A120">
+			<description>TM1</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278536.233676303</SimpleData>
+					<SimpleData name="N">9879457.17291662</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0106633336433,-1.09265927849588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="093653FD8335E1A6A121">
+			<description>TM2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278435.414633728</SimpleData>
+					<SimpleData name="N">9879424.9908277</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0097574922263,-1.09294966003285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1513FE2D2935E1A6A121">
+			<description>TM3</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278474.181074871</SimpleData>
+					<SimpleData name="N">9879324.36525944</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0101051305246,-1.0938597282849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="238C44F3AB35E1A6A121">
+			<description>TM4</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278365.882196278</SimpleData>
+					<SimpleData name="N">9879232.96680507</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0091317456414,-1.09468548644946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0AACE4437E35E1A6A122">
+			<description>TM5</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278468.778134206</SimpleData>
+					<SimpleData name="N">9879126.3100331</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.010055418066,-1.09565047208414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DB512377D345F6681DA">
+			<description>TM6</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278582.555923095</SimpleData>
+					<SimpleData name="N">9879130.51154264</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0110775020775,-1.09561316451591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05F02AE2D0345F637A15">
+			<description>TM7</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278650.370205917</SimpleData>
+					<SimpleData name="N">9879072.53312299</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0116863290031,-1.09613780053142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="11CF8CCB6635E1A6A122">
+			<description>TM8</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278656.296625091</SimpleData>
+					<SimpleData name="N">9878911.91294863</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0117386091641,-1.09759013330217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="080479123735E1A6A123">
+			<description>TM9</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278716.610430497</SimpleData>
+					<SimpleData name="N">9878785.26202067</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0122796503205,-1.09873564916414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="139ADF27E135E1A6A123">
+			<description>h29</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278675.599746827</SimpleData>
+					<SimpleData name="N">9878763.64055577</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0119111241202,-1.09893090017247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="22F29FC84B35E1A6A123">
+			<description>h90</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278645.945922045</SimpleData>
+					<SimpleData name="N">9880483.22775264</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0116549328979,-1.08338253973494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="3061A5269435E1A6A123">
+			<description>A14</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279579.203237571</SimpleData>
+					<SimpleData name="N">9879432.28915164</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0200321372878,-1.09289049058582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EEEF64C1535E1A6A124">
+			<description>K</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278453.682963713</SimpleData>
+					<SimpleData name="N">9880705.6484509</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0099291613212,-1.08137031697162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1A19F49E0A35E1A6A124">
+			<description>J</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">277645.196607379</SimpleData>
+					<SimpleData name="N">9880073.08198507</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0026628895961,-1.08708504143285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2FFC2676B235E1A6A124">
+			<description>B68</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278930.729241746</SimpleData>
+					<SimpleData name="N">9878418.79459871</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0142008850059,-1.10205046797334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0798BF9E7A35E1A6A125">
+			<description>B63</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278795.551501911</SimpleData>
+					<SimpleData name="N">9878563.39619052</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0129874508879,-1.10074219336384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="18218DB70B35E1A6A125">
+			<description>B61</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278520.601502604</SimpleData>
+					<SimpleData name="N">9878917.2208314</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0105196985183,-1.09754132626854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="26DA5B239535E1A6A125">
+			<description>TN4</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279227.412198059</SimpleData>
+					<SimpleData name="N">9879010.00634996</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0168695036981,-1.09670660987169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="017ADF87A735E1A6A126">
+			<description>TN5</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279000.057402696</SimpleData>
+					<SimpleData name="N">9879030.22891082</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0148273022237,-1.09652240111493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="13582FBE2935E1A6A126">
+			<description>TN6</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278991.117704677</SimpleData>
+					<SimpleData name="N">9878835.08796064</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0147458362757,-1.0982867784545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2166BEEE1535E1A6A126">
+			<description>TN7</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279026.011442712</SimpleData>
+					<SimpleData name="N">9878621.27130227</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0150580117139,-1.10022028126266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="38FA87D27735E1A6A126">
+			<description>T8</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278926.215244434</SimpleData>
+					<SimpleData name="N">9878513.87396752</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0141609038666,-1.10119074989311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A8FEF079335E1A6A127">
+			<description>TN1</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279283.422570861</SimpleData>
+					<SimpleData name="N">9879677.5983437</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0173765966587,-1.09067068312468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="169D22024035E1A6A127">
+			<description>TN2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279528.212240825</SimpleData>
+					<SimpleData name="N">9879431.5706769</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0195740818366,-1.09289668361537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2CF36B501A35E1A6A127">
+			<description>TN3</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279411.679483694</SimpleData>
+					<SimpleData name="N">9879213.89425128</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.018525982263,-1.09486418745768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0FAB2363F035E1A6A128">
+			<description>CM11</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278882.976253129</SimpleData>
+					<SimpleData name="N">9879548.5498202</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0137786426785,-1.09183513476168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="12BEB4158F35E1A6A128">
+			<description>CM10</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278876.981209645</SimpleData>
+					<SimpleData name="N">9879420.29391019</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.013724029584,-1.09299476617433,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01DFDD6384345F68CEB6">
+			<description>CM9</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278891.649571807</SimpleData>
+					<SimpleData name="N">9879326.58368273</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0138552390112,-1.09384216498693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="25F233D7C035E1A6A128">
+			<description>SCC</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278934.086879518</SimpleData>
+					<SimpleData name="N">9879236.30091328</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0142359156577,-1.09465873937732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="09D9F29B2735E1A6A129">
+			<description>HSC</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278850.490095844</SimpleData>
+					<SimpleData name="N">9879239.21731575</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0134849868514,-1.09463187022161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="17E9EFD81835E1A6A129">
+			<description>EXAM</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278849.507176786</SimpleData>
+					<SimpleData name="N">9879167.43749366</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0134757309797,-1.09528088463257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2C1C71AD8D35E1A6A129">
+			<description>MK</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278782.082803529</SimpleData>
+					<SimpleData name="N">9879175.15485981</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0128701068812,-1.09521070232576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0052E1BFBC35E1A6A12A">
+			<description>HO</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278785.831283783</SimpleData>
+					<SimpleData name="N">9879062.75507631</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0129031110071,-1.09622702308444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="04680D5A46345F663D78">
+			<description>SQ1</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278624.931803147</SimpleData>
+					<SimpleData name="N">9879189.44932769</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0114585127667,-1.09508051407121,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0E2B668687345F678D58">
+			<description>SQ2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278580.879988979</SimpleData>
+					<SimpleData name="N">9879266.57004737</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.011063256428,-1.09438293967561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="07CF00C058345F689404">
+			<description>CM1</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278791.516388972</SimpleData>
+					<SimpleData name="N">9879312.67216882</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0129556650806,-1.09396735228675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02EBAC3D5435E1A6A12B">
+			<description>CM2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278782.993960006</SimpleData>
+					<SimpleData name="N">9879120.24310999</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0128779653431,-1.09570720979308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="194118DAE635E1A6A12B">
+			<description>N2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279321.016785954</SimpleData>
+					<SimpleData name="N">9879281.19139376</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0177119599195,-1.09425515645345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="27435BB18635E1A6A12B">
+			<description>N3</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279311.368831276</SimpleData>
+					<SimpleData name="N">9879170.90007021</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0176246389726,-1.09525233582993,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02C678E75835E1A6A12C">
+			<description>N4</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279172.161004541</SimpleData>
+					<SimpleData name="N">9879121.09518099</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0163738431908,-1.09570183247359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="13E157542E35E1A6A12C">
+			<description>N5</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279164.068162767</SimpleData>
+					<SimpleData name="N">9879018.58665614</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0163005367389,-1.09662864942039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2E5B87E80335E1A6A12C">
+			<description>H1</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279288.464639941</SimpleData>
+					<SimpleData name="N">9879228.90771744</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0174192350392,-1.09472770312608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="36EE8B1A9135E1A6A12C">
+			<description>H2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279144.42370649</SimpleData>
+					<SimpleData name="N">9879300.98701718</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0161257468766,-1.09407511439382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="054DE22A4335E1A6A12D">
+			<description>H3</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279046.536084195</SimpleData>
+					<SimpleData name="N">9879264.70297735</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.015246210802,-1.09440260441611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="115692129335E1A6A12D">
+			<description>H4</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279024.674551748</SimpleData>
+					<SimpleData name="N">9879200.22374925</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0150494469108,-1.09498548407234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="25AD5C1B2E35E1A6A12D">
+			<description>H5</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278964.142390099</SimpleData>
+					<SimpleData name="N">9879153.46248788</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0145054112111,-1.09540792960468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BD86F5F3635E1A6A12E">
+			<description>H6</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">278998.183645376</SimpleData>
+					<SimpleData name="N">9879103.54415628</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0148109060023,-1.09585948606216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1FA202D19135E1A6A12E">
+			<description>SM1</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279229.751994251</SimpleData>
+					<SimpleData name="N">9879005.14783061</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0168904931786,-1.09675055381096,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2E3F3C209935E1A6A12E">
+			<description>SM2</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279339.857878413</SimpleData>
+					<SimpleData name="N">9879107.54497722</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0178801797686,-1.09582535276581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="3C0A45E15C35E1A6A12E">
+			<description>SM3</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279365.647129929</SimpleData>
+					<SimpleData name="N">9879176.72790737</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0181122543021,-1.09519996530642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="023EADC08335E1A6A12F">
+			<description>A</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279161.536337659</SimpleData>
+					<SimpleData name="N">9879481.12909023</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0162805358931,-1.09244640134328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1AA6FD872335E1A6A12F">
+			<description>B</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279145.387304091</SimpleData>
+					<SimpleData name="N">9879342.03090632</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0161346460683,-1.09370400804958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01C5F485AA345F68FD8D">
+			<description>C</description>
+			<ExtendedData>
+				<SchemaData schemaUrl="#JUJA">
+					<SimpleData name="E">279077.496049656</SimpleData>
+					<SimpleData name="N">9879341.98521049</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>37.0155247811924,-1.09370401626782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="06596C041735E1A6A130">
+			<name>Cherry-Park</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01342482111002,-1.098389471283957,0 37.01337592648815,-1.098469709621076,0 37.01346745808148,-1.098840286047631,0 37.01365106721182,-1.098988908121515,0 37.01367947066157,-1.099425349226295,0 37.01383900031806,-1.099879883386764,0 37.01442757051126,-1.100494038457532,0 37.01465716620867,-1.100057389744935,0 37.01461276183485,-1.098332983329627,0 37.01342482111002,-1.098389471283957,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="12C4F3ABB035E1A6A130">
+			<name>PAUSTI-ELB</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01466355035353,-1.096156377048316,0 37.01340986316412,-1.096168176902881,0 37.01337722274499,-1.09832088307839,0 37.01462805744651,-1.098248145690784,0 37.01466355035353,-1.096156377048316,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="061124924935E1A6A131">
+			<name>HOSPITAL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01330683155342,-1.0962115876599,0 37.01176189826504,-1.096203108500731,0 37.01169366307358,-1.09626326058415,0 37.01176293013015,-1.096350990512379,0 37.01181027579778,-1.096460464438272,0 37.01183109951147,-1.096546818870053,0 37.01184125377456,-1.09664045139921,0 37.01183330986831,-1.09673743772092,0 37.01178595488464,-1.096852435792908,0 37.01172316793645,-1.096933634225103,0 37.0116782038431,-1.096999914403868,0 37.01167833073389,-1.097003601094848,0 37.01175129472363,-1.097125164876195,0 37.01175359230923,-1.097194746085497,0 37.0117533918868,-1.097304083032846,0 37.01175411641317,-1.097329492792258,0 37.01175206521818,-1.097383856724991,0 37.01329376730903,-1.097435436156613,0 37.01330683155342,-1.0962115876599,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="10445D48A335E1A6A131">
+			<name>WORKSHOP</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01292724419435,-1.096209993533023,0 37.01289055382293,-1.093941325553445,0 37.01290418128543,-1.093910510936249,0 37.01173796538448,-1.093898758289011,0 37.01167990180836,-1.096219366795841,0 37.01179732161937,-1.096203400723525,0 37.01292724419435,-1.096209993533023,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0839560207345F63559C">
+			<name>SQ</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01174558573459,-1.093895006254956,0 37.0115497073072,-1.093854888657479,0 37.01109758304916,-1.093718033447014,0 37.01067183396268,-1.09363656149319,0 37.01062761226499,-1.093786159315894,0 37.01074838753072,-1.093947940477044,0 37.01084235303024,-1.09527024059905,0 37.01162511219043,-1.096263824434146,0 37.01167307650493,-1.096210940930945,0 37.01174558573459,-1.093895006254956,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0C61A6A47835E1A6A132">
+			<name>NCLB-CLB-COANRE</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01292599454659,-1.095363199560548,0 37.01421798679151,-1.095390101045732,0 37.01420161123551,-1.095307701501544,0 37.01422596956582,-1.093919105995517,0 37.01290379872668,-1.093926237427738,0 37.01292599454659,-1.095363199560548,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="058051EE9235E1A6A133">
+			<name>EMB-ADMIN</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.0129275390363,-1.096211125073585,0 37.0133041965589,-1.096215065760932,0 37.01342389629863,-1.096173842381812,0 37.01467657735021,-1.096155823908883,0 37.01481413696531,-1.096162956570165,0 37.01483278814344,-1.095230820194749,0 37.01458720211124,-1.095223808696072,0 37.01422390191233,-1.095225102625054,0 37.01421590624436,-1.095394440799864,0 37.01292564465627,-1.095365801146842,0 37.0129275390363,-1.096211125073585,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1FC4DEB0DE35E1A6A133">
+			<name>LIB-MAIN MESS-PAVILLION</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01465263735741,-1.096988424525042,0 37.01504571087391,-1.096989072445085,0 37.01506175085706,-1.096771693506094,0 37.01555902326059,-1.096752713575261,0 37.01580624257263,-1.096749054285768,0 37.0160756510177,-1.096747976759885,0 37.01656272106702,-1.095920657832849,0 37.01578252096597,-1.095915554520771,0 37.01577367232683,-1.095708272661881,0 37.01531394012368,-1.095723728311497,0 37.01529883572155,-1.095641677742498,0 37.01521368687938,-1.095629811404019,0 37.01520810459061,-1.095443647614496,0 37.01484121530106,-1.095416384615764,0 37.01465263735741,-1.096988424525042,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="00A5E0473935E1A6A134">
+			<name>GATE B-SUM</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01606510898997,-1.096751129829087,0 37.01747292571119,-1.096762380212008,0 37.01861095087757,-1.09518202892154,0 37.01816223871543,-1.094982256566204,0 37.01820950750595,-1.094891572972531,0 37.01808383140968,-1.094889749230436,0 37.01761056592208,-1.094878778987391,0 37.01763442533125,-1.095237098523517,0 37.01680301686358,-1.09528320357427,0 37.01681131634322,-1.095596135869915,0 37.01655628862837,-1.095932546269752,0 37.01606510898997,-1.096751129829087,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="03D7419B2735E1A6A135">
+			<name>BEED</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01466695976106,-1.093808013850131,0 37.01463061247979,-1.09136019223138,0 37.01379454112031,-1.091394183862046,0 37.01384645459335,-1.093830326383239,0 37.01466695976106,-1.093808013850131,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1C13488F7735E1A6A135">
+			<name>SPA</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01543317776996,-1.093843944408441,0 37.01543877286545,-1.092536419347978,0 37.01555179560557,-1.092535408901603,0 37.01554884287452,-1.091704143385361,0 37.01545794005554,-1.09174283091141,0 37.01546631225572,-1.091467464496112,0 37.01463462249238,-1.09145937169619,0 37.014670594391,-1.093820141669214,0 37.01543317776996,-1.093843944408441,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0462ADB31C35E1A6A136">
+			<name>SCC-ASSEMBLY HALL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01422377360736,-1.095226613128685,0 37.01483323359354,-1.095241311781672,0 37.01482952182027,-1.095426422140491,0 37.01521249091691,-1.095446816131189,0 37.01530199004292,-1.09542850007217,0 37.0153092342095,-1.095185273758095,0 37.01547362401793,-1.093924741167459,0 37.01422629146938,-1.093933998261658,0 37.01422377360736,-1.095226613128685,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1FD58F6B5D35E1A6A136">
+			<name>HALLS</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01744069995603,-1.093957942600646,0 37.0164864197076,-1.093945989701102,0 37.01642991413227,-1.09527624391896,0 37.01680693183896,-1.09528382948671,0 37.01763800294432,-1.095234849489742,0 37.01764252857532,-1.095216166144912,0 37.01760908391818,-1.094877570601084,0 37.01770551523291,-1.094877236699857,0 37.01774013063486,-1.094207833961638,0 37.01754684087872,-1.094124673560152,0 37.01756937457565,-1.093939629586125,0 37.01744069995603,-1.093957942600646,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0476DE2CA335E1A6A137">
+			<name>STUENTS CENTRE</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01541277180131,-1.094324040876994,0 37.01529658942393,-1.095212084384838,0 37.01530689280735,-1.095431315740705,0 37.01522074696723,-1.095442532376825,0 37.01520847564385,-1.095624394319164,0 37.01529910730559,-1.095646478921815,0 37.01532435917175,-1.095727056140544,0 37.01576270276607,-1.095712502237512,0 37.01578585332057,-1.095915116537159,0 37.01656418559645,-1.095929813731571,0 37.01681726721054,-1.095607022477683,0 37.01680507849648,-1.095292325594215,0 37.01643079169687,-1.095269321145417,0 37.016475611766,-1.093943935007205,0 37.01548798921956,-1.093951020269496,0 37.01541277180131,-1.094324040876994,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="133AE48C9F35E1A6A137">
+			<name>SWAMP</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01399699590299,-1.101694530436653,0 37.01417056880402,-1.101570659790139,0 37.01403905561266,-1.101207704725602,0 37.01405835259816,-1.101081249783381,0 37.01411518764952,-1.100989776971518,0 37.01418538970193,-1.100888381956537,0 37.014277880691,-1.100772129758693,0 37.01440755173618,-1.100582988723636,0 37.01385186251191,-1.100015128002669,0 37.01374686801365,-1.099924957698338,0 37.01369278244589,-1.099787693487539,0 37.01364387723954,-1.099694367434605,0 37.01287573701697,-1.100295023535633,0 37.01399699590299,-1.101694530436653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="08D688163335E1A6A138">
+			<name>COHES-NSC</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.0129062021817,-1.100295114046632,0 37.01364823968751,-1.099689193847129,0 37.01374672594551,-1.09962712941772,0 37.01366029970467,-1.09939616764483,0 37.01364580592459,-1.098993777291772,0 37.01345636355322,-1.098859502296434,0 37.01336718221559,-1.098476674971256,0 37.01331805418428,-1.098406962539935,0 37.0125719691842,-1.098438889897208,0 37.01241534738649,-1.098474549676006,0 37.01180776260307,-1.098743353082236,0 37.0129062021817,-1.100295114046632,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="17B0A205A735E1A6A138">
+			<name>REDHUT</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.0129405625893,-1.091701947133996,0 37.01283769178848,-1.092382716512851,0 37.01273450735282,-1.09239824459264,0 37.0126865946775,-1.093844677318203,0 37.01378186828403,-1.093820310900882,0 37.01372478339931,-1.092434044049798,0 37.01317871066752,-1.092435611875975,0 37.01314295609779,-1.091913544171815,0 37.0129405625893,-1.091701947133996,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0FD19C60B335E1A6A139">
+			<name>WATER TREATMENT</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01757790633845,-1.093828562593946,0 37.01707642360852,-1.092507593546214,0 37.01691276591468,-1.091515853634796,0 37.0162129818101,-1.091524713197549,0 37.01616900777555,-1.093862851180287,0 37.01757790633845,-1.093828562593946,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0500DC6C5335E1A6A13A">
+			<name>IN BETWEEN</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01546301041689,-1.091482646121334,0 37.01546241053647,-1.091734112920905,0 37.01554907564064,-1.091708286264272,0 37.01554761750702,-1.092538318366095,0 37.01544607118529,-1.0925468133802,0 37.01544136602475,-1.093830426179328,0 37.01616756355502,-1.093860320971228,0 37.01620578184723,-1.091530160048599,0 37.01546301041689,-1.091482646121334,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1632B471B735E1A6A13A">
+			<name>RUGBY</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01463014115517,-1.091359416319831,0 37.01464239946592,-1.091462806423745,0 37.01496373739247,-1.09145059440059,0 37.01493223384668,-1.091318400803785,0 37.01487825921819,-1.089976651637461,0 37.01432690886414,-1.089978989879905,0 37.01426536147166,-1.089840729439005,0 37.01322591614053,-1.090730212716925,0 37.01380400241842,-1.091386787978369,0 37.01463014115517,-1.091359416319831,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="08B4FF8FA735E1A6A13B">
+			<name>CATTLE-DIP</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01315859084939,-1.090660885482089,0 37.01435335981437,-1.089641049672539,0 37.01388665735311,-1.089112283363108,0 37.01348191502774,-1.08947721423868,0 37.01321336615214,-1.089235392711016,0 37.01241380873338,-1.089762291411016,0 37.01315859084939,-1.090660885482089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="1C2C0A3CBE35E1A6A13B">
+			<name>BASEBALL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01460866333979,-1.087045274920026,0 37.01355718148312,-1.087869007661205,0 37.01455977337955,-1.088711880264473,0 37.01548868848876,-1.087923758804286,0 37.01460866333979,-1.087045274920026,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="075832FF7A35E1A6A13C">
+			<name>FOOTBALL</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01553530563099,-1.091359872354702,0 37.01616950830015,-1.091424217096937,0 37.01619774333354,-1.090810801191725,0 37.01628919352034,-1.090579661507068,0 37.01633867985202,-1.090486935301103,0 37.01637588714946,-1.090356739867951,0 37.01632778109798,-1.089367435020629,0 37.01654514524571,-1.089144013200438,0 37.015951401986,-1.088385649959096,0 37.01528338595669,-1.088937041688857,0 37.01547089273029,-1.089313417028164,0 37.01553530563099,-1.091359872354702,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark id="0F0764DC4E35E1A6A13D">
+			<name>KCB-PAUSTI</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							37.01629709678005,-1.098623549508238,0 37.01572668299809,-1.098347270211406,0 37.01559649554255,-1.098371134333226,0 37.01539889835214,-1.098246235119509,0 37.0148242619109,-1.098266098934212,0 37.01481679286139,-1.098685189572412,0 37.01476251553377,-1.098861955011987,0 37.01477693137711,-1.099789663254969,0 37.01475057483866,-1.100032863916339,0 37.01460399242835,-1.100491412820168,0 37.01425176120323,-1.100981121073894,0 37.01415838778011,-1.101118368809338,0 37.01415566821584,-1.101233613149584,0 37.01425699807276,-1.101492809337527,0 37.01429160148026,-1.101494774017347,0 37.0144086469051,-1.101545190298698,0 37.01629709678005,-1.098623549508238,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
